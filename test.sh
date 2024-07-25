@@ -6,4 +6,4 @@ current_time=$(date "+%Y-%m-%d %H:%M:%S")
 
 echo "Текущее время: $current_time"
 
-echo "Текущая дата: $current_data"
+echo "Текущая дата: $current_date"
