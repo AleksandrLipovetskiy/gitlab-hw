@@ -29,7 +29,7 @@
 
 1. `Так и не понял, что за ссылка на commit`
 2. `Думаю, что ссылка на commit , это либо git log -graph, либо нужно поискать на сайте Gita.`
-3. `[Вот ссылка - ](https://github.com/AleksandrLipovetskiy/gitlab-hw/commit/72a4fb3d7a12c16ba8e07f2f2b44006acef5facb)`
+3. [Вот ссылка - ](https://github.com/AleksandrLipovetskiy/gitlab-hw/commit/72a4fb3d7a12c16ba8e07f2f2b44006acef5facb)
 
 
 ```
@@ -48,7 +48,7 @@
 
 ### Задание 2
 
-`[Вот ссылка на конфиг "игнора"]( https://github.com/AleksandrLipovetskiy/gitlab-hw/commit/601f703336aff315a1f08d7e0377778a5f883db6)`
+[Вот ссылка на конфиг "игнора"]( https://github.com/AleksandrLipovetskiy/gitlab-hw/commit/601f703336aff315a1f08d7e0377778a5f883db6)
 
 1. `Заполните здесь этапы выполнения, если требуется ....`
 2. `Заполните здесь этапы выполнения, если требуется ....`
@@ -73,7 +73,7 @@
 
 ### Задание 3
 
-`[Вот ссылка на граф commit -](https://github.com/AleksandrLipovetskiy/gitlab-hw/network)`
+[Вот ссылка на граф commit -](https://github.com/AleksandrLipovetskiy/gitlab-hw/network)
 
 1. `Заполните здесь этапы выполнения, если требуется ....`
 2. `Заполните здесь этапы выполнения, если требуется ....`
