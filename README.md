@@ -30,7 +30,7 @@
 
 ### Задание 2
 
-[Вот ссылка на конфиг "игнора" из 2 задания]( https://github.com/AleksandrLipovetskiy/gitlab-hw/commit/601f703336aff315a1f08d7e0377778a5f883db6)
+[Вот ссылка на конфиг "игнора" из 2 задания](https://github.com/AleksandrLipovetskiy/gitlab-hw/blob/main/.gitignore)
 
 ### Задание 3
 
